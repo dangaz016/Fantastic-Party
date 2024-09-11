@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border-radius: 15px;
+    background-color: teal;
+}
+
+header a{
+    text-decoration: none;
+    color: black;
+}
+
+header img {
+    border-radius: 90px;
+    border: solid teal;
+}
+
+h1 {
+    font-weight: 900;
+    color: teal;
+}
+
+footer p{
+    background-color: teal;
+    color: white;
+}
+
+nav a{
+    text-decoration: none;
+    color: black;
+}
+
+h2 p, img {
+    background-color: brown;
+}
+
+.product {
+    background-color: brown;
+    border-radius: 15px;
+    padding: 5px;
+    border: dashed;
+}
+
+h2 {
+    color: teal;
+}
+
+body {
+    margin: 18px;
+    font-size: 20px;
+}
